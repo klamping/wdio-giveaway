@@ -103,6 +103,12 @@ a:focus {
     color: #F75E06;
 }
 
+hr {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
 .btn,
 .btn-lg,
 .input-lg {
@@ -167,11 +173,11 @@ a:focus {
 }
 
 .has-padding-top {
-    padding-top: 40px;
+    padding-top: 25px;
 }
 
 .has-padding-bottom {
-    padding-top: 40px;
+    padding-top: 25px;
 }
 
 
@@ -367,6 +373,10 @@ h2.section-title,
     z-index: 2;
 }
 
+
+.supporing-content .thumb {
+    text-align: right;
+}
 
 
 /*========== 7. FAQ ==============*/
